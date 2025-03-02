@@ -26,7 +26,8 @@ Experience natural conversations with advanced AI capabilities:
 - Love for AI! ❤️
 
 ## 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/55c5d71e-698e-4f4e-b5ab-8c7db3bbc267)
+![Image](https://github.com/user-attachments/assets/55c5d71e-698e-4f4e-b5ab-8c7db3bbc267)        
+![Image](https://github.com/user-attachments/assets/6fab576f-6c22-49c2-8558-7f030dd3bed0)
 
 ## 🚀 Quick Start
 1. Clone the repository
