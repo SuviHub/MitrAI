@@ -26,10 +26,7 @@ Experience natural conversations with advanced AI capabilities:
 - Love for AI! ❤️
 
 ## 📸 Screenshots
-<div align="center">
-  <img src="screenshots/chat-interface.png" alt="Chat Interface" width="600"/>
-  <!-- Add your actual screenshot here -->
-</div>
+![Image](https://github.com/user-attachments/assets/55c5d71e-698e-4f4e-b5ab-8c7db3bbc267)
 
 ## 🚀 Quick Start
 1. Clone the repository
