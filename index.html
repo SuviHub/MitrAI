@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Chat</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <img src="assets/bear1.jpg" alt="MitrAI" class="chat-avatar">
+            <span class="chat-title">MitrAI</span>
+            <button id="newChatBtn">New Chat</button>
+        </div>
+                
+        <div class="chat-messages" id="chatMessages">
+        </div>
+        <div class="input-area">
+            <textarea id="userInput" rows="2" placeholder="Type your message..."></textarea>
+            <button onclick="sendMessage()">Send</button>
+        </div>
+        
+    </div>
+
+    <div class="chat-avatar-center">
+        <img src="assets/bear1.jpg" alt="MitrAI" class="center-avatar">
+    </div>
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
